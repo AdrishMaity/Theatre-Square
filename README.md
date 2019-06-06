@@ -1,6 +1,6 @@
 # The Problem Statement
 
-#Theatre Square
+# Theatre Square
 time limit per test: 1 second
 
 memory limit per test: 256 megabytes
